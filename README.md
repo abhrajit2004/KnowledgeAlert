@@ -8,20 +8,20 @@ git clone https://github.com/abhrajit2004/KnowledgeAlert
 ```
 - Go to chrome Extensions ---> Manage Extensions
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 - Make sure the Developer mode is enabled on top right
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 - You have to click on **Load unpacked** on top left and select the cloned repository folder
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 - You can see the extension and make sure it is enabled
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 - Now you are ready to use this extension
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
